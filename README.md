@@ -37,6 +37,7 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 [![Cisco: CCNA](https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png)](https://www.credly.com/badges/9a48aa6e-ee0b-4897-b408-18b033cfac95 "Cisco: CCNA")
 [![Cisco: CCNA Security](https://images.credly.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png)](https://www.credly.com/badges/f7741646-ecf2-4800-a1e2-65afa7a536ae "Cisco: CCNA Security")
 [![Cisco: CCNP](https://images.credly.com/size/110x110/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png)](https://www.credly.com/badges/7a91380e-8635-4d85-ae04-706b14640b51 "Cisco: CCNP")
+[![Redhat: RHCSA](https://www.linkpicture.com/q/RHCSA.png)](https://rhtapps.redhat.com/verify?certId=180-272-312 "Redhat: RHCSA")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
