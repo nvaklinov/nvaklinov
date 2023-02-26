@@ -15,7 +15,7 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 - FastAPI and microservices
 - Real-Time analytics with Kafka and Python
 - Serverless rest API with Python
-- AirFlow DAG automation
+- AirFlow DAG automation with AWS-CDK and MWAA
 
 ## 🎓 Certificates
 
