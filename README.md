@@ -10,6 +10,13 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 
 ## 🏗️ My Projects
 
+- Scalable backend with python and kafka
+- Flask application with OAUTH
+- FastAPI and microservices
+- Real-Time analytics with Kafka and Python
+- Serverless rest API with Python
+- AirFlow DAG automation
+
 ## 🎓 Certificates
 
 <!--START_SECTION:badges-->
