@@ -10,6 +10,7 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 
 ## 🏗️ My Projects
 
+- Daap on Etherium blockchain with Solidity and Python
 - Scalable backend with python and kafka
 - Flask application with OAUTH
 - FastAPI and microservices
