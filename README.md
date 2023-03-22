@@ -4,8 +4,6 @@
 
 I am a passionate Python developer with expertise in Big Data and DevOps
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10228725/nik-v?tab=profile)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nik-v-16022ba9/)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://cloud-native.social/@nvaklinov)
 
 ## 🏗️ My Projects
@@ -17,28 +15,6 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 - Real-Time analytics with Kafka and Python
 - Serverless rest API with Python
 - AirFlow DAG automation with AWS-CDK and MWAA
-
-## 🎓 Certificates
-
-<!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/eb54dfa7-dca7-4ee0-bfc8-ae889043559e "CKA: Certified Kubernetes Administrator")
-[![AWS: Certified Data Analytics Specialty](https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png)](https://www.credly.com/badges/c3b9c6b3-c85a-46b4-8030-24cab8990679/public_url "AWS: Certified Data Analytcs Specialty")
-[![AWS: Certified DevOps Engineer Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/5d6c1d90-30cb-46db-9de7-a8021d505ac2/public_url "AWS: Certified DevOps Engineer Professional")
-[![AWS: Certified SysOps Administrator](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/02c98435-c5cf-4b8f-8c69-8145b221af50 "AWS: Certified SysOps Administrator")
-[![AWS: Certified Solutions Architect](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/1ecc5dd8-992e-4947-b627-dfb0c7137fe4 "AWS: Certified Solutions Architect")
-[![Azure: Microsoft Certified DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/badges/26a53ebe-9cfb-4846-a398-b64742b7e8c2 "Azure: Microsoft Certified DevOps Engineer Expert")
-[![Azure: Microsoft Certified Azure Administrator](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/4593f831-4121-4f45-acd1-bda3e803242b "Azure: Microsoft Certified Azure Administrator")
-[![GCP: Certified Cloud Engineer](https://www.linkpicture.com/q/1_T59fnCvp71WqNeuytWGorA-14.19.49.png)](https://www.credential.net/2da2df36-4c6b-4078-b457-cddfcd620a91?_ga=2.33858785.1924061412.1677066600-687365343.1677066600&_gl=1*1db4s61*_ga*Njg3MzY1MzQzLjE2NzcwNjY2MDA.*_ga_FSDJZHHBH0*MTY3NzA2NjYwMC4xLjEuMTY3NzA2NjY4My4wLjAuMA.. "GCP: Certified Cloud Engineer")
-[![GCP: Certified Professional Cloud Architect](https://www.linkpicture.com/q/1_lYTjDvogknAy7ChQsXT9tQ.png)](https://www.credential.net/460723dc-9511-44dc-a9d1-92d2283e16c9?_ga=2.96242012.1924061412.1677066600-687365343.1677066600&_gl=1*dju1nt*_ga*Njg3MzY1MzQzLjE2NzcwNjY2MDA.*_ga_FSDJZHHBH0*MTY3NzA2NjYwMC4xLjEuMTY3NzA2NjczNy4wLjAuMA.. "GCP: Certified Professional Cloud Architect")
-[![HashiCorp: Certified Terraform](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/5af06346-0b1d-4e10-9081-f16db83b913b "HashiCorp: Certified Terraform")
-[![HashiCorp: Certified Vault](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](https://www.credly.com/badges/6e19de39-aee8-4284-aed0-757c5ae983b0 "HashiCorp: Certified Vault")
-[![HashiCorp: Certified Consul](https://images.credly.com/size/110x110/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png)](https://www.credly.com/badges/0a5e05ed-54cb-4240-bdac-82a89d060df2 "HashiCorp: Certified Consul")
-[![Cisco: CCNA](https://images.credly.com/size/110x110/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png)](https://www.credly.com/badges/9a48aa6e-ee0b-4897-b408-18b033cfac95 "Cisco: CCNA")
-[![Cisco: CCNA Security](https://images.credly.com/size/110x110/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png)](https://www.credly.com/badges/f7741646-ecf2-4800-a1e2-65afa7a536ae "Cisco: CCNA Security")
-[![Cisco: CCNP](https://images.credly.com/size/110x110/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png)](https://www.credly.com/badges/7a91380e-8635-4d85-ae04-706b14640b51 "Cisco: CCNP")
-[![Redhat: RHCSA](https://www.linkpicture.com/q/RHCSA.png)](https://rhtapps.redhat.com/verify?certId=180-272-312 "Redhat: RHCSA")
-<!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
 
