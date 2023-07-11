@@ -8,11 +8,11 @@ I am a passionate Python developer with expertise in Big Data and DevOps
 
 ## 🏗️ My Projects
 
-- Daap on Etherium blockchain with Solidity and Python
+- Backstage IDP with Crossplane and ArgoCD
 - Scalable backend with Python and Kafka
-- Flask application with OAUTH
-- FastAPI and microservices
-- Real-Time analytics with Kafka and Python
+- Flask application with OAUTH Cognito
+- Flask and microservices with fluxCD
+- Real-Time analytics with SQS and Python
 - Serverless rest API with Python
 - AirFlow DAG automation with AWS-CDK and MWAA
 
